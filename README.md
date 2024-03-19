@@ -24,16 +24,7 @@ For this project, we assume the role of data engineer working for an internation
 8. **Save the Transformed Data:**
    - Store the processed and transformed data in a format that data engineers can use for loading.
 
-## Getting Started
 
-To get started with the project, follow these steps:
-
-1. Clone this repository to your local machine.
-
-2. Install any required dependencies by running:
-   ```
-   pip install -r requirements.txt
-   ```
 
 3. Begin implementing the ETL pipeline by working on each of the project tasks.
 
