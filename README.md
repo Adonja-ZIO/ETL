@@ -32,8 +32,4 @@ For this project, we assume the role of data engineer working for an internation
 
 Contributions are welcome! If you find any issues or want to add improvements to the project, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 Happy ETL Engineering!
